@@ -4,3 +4,4 @@
 
 ###### This is an `<h6>` header, which is the smallest
 # My name is Ravenn
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
